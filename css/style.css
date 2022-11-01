@@ -1,0 +1,13 @@
+:root {
+    --white:#FFFFFF;
+    --yellow-grey:#F4F3EE;
+    --light-grey:#E2E2E2;
+    --medium-d-grey:#8D8D8D;
+    --dark-grey: #6A6A6A;
+    --pink:#C32C72;
+}
+
+h1 {
+    text-align: center;
+    padding: 50px 0;
+}
